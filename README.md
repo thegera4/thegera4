@@ -20,9 +20,9 @@
 
 I'm Juan Gerardo Medellin Ibarra, a Full Stack Web-Mobile Developer from Mexico.
 
-- :telescope: I'm looking for my first opportunity in the IT industry as a Web Developer (Frontend or Backend) or as a Mobile Developer.
+- :telescope: I'm looking for opportunities that allow me to keep growing, both personally and professionally.
 
-- :seedling: I just finished the Fullstack Web Developer career in the Henry bootcamp but I continue studying myself new technologies.
+- :seedling: I'm a Fullstack Developer passionate about learning new things.
 
 - :zap: In my spare time, I like to take new courses about programming languages and new technologies, as well as play videogames and spend time with my family.
 
@@ -38,6 +38,7 @@ I'm Juan Gerardo Medellin Ibarra, a Full Stack Web-Mobile Developer from Mexico.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="TWCSS" width="40" height="40"/>&nbsp;
