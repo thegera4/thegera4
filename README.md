@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/juan-gerardo-medellin-ibarra-8b207058/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://portfolio-two-rose.vercel.app/">
+  <a href="https://jgmedellin.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
