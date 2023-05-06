@@ -26,6 +26,8 @@ I'm Juan Gerardo Medellin Ibarra, a Full Stack Web-Mobile Developer from Mexico.
 
 - :zap: In my spare time, I like to take new courses about programming languages and new technologies, as well as play videogames and spend time with my family.
 
+- :man_teacher: Currently, I'm learning the basics of ethical hacking because I find this topic also very interesting.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
