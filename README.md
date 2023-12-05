@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I'm Juan Gerardo Medellin Ibarra, a Full Stack Web-Mobile Developer from Mexico.
+I'm Juan Gerardo Medellin Ibarra, a Full Stack Developer from Mexico.
 
 - :telescope: I'm looking for opportunities that allow me to keep growing, both personally and professionally.
 
